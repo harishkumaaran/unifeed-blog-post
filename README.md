@@ -2,7 +2,7 @@
 
 This is a Challenge accepted from [codewell](https://www.codewell.cc/challenges/unifeed-blog-page--608d9d5c747bad001532bd7c). It is static Landing page designed using Tailwind css.
 
-[**click here to view the component**]()
+[**click here to view the component**](https://harishkumaaran.github.io/unifeed-blog-post/)
 &nbsp;
 
 # screenshots
